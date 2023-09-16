@@ -11,4 +11,4 @@
 - 查找项目
 ---
 # 链接
-[![twiter](https://dcbadge.vercel.app/api/server/autogpt?style=flat)](https://twitter.com/laini44380)
+[![twiter](https://img.shields.io/badge/follow%40laini-black?logo=x)](https://twitter.com/laini44380)
