@@ -12,3 +12,6 @@
 ---
 # 链接
 [![twiter](https://img.shields.io/badge/follow%40laini-black?logo=x)](https://twitter.com/laini44380) [![youtube](https://img.shields.io/badge/follow%40laini-red?logo=youtube)](https://youtube.com/@laini2176?si=LZXChokYPrVTPLwE)
+<div align="center">
+  <h1>laini的分享小站</h1>
+</div>
