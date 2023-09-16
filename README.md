@@ -11,4 +11,4 @@
 - 查找项目
 ---
 # 链接
-[![twiter](https://img.shields.io/badge/follow%40laini-black?logo=x)](https://twitter.com/laini44380)
+[![twiter](https://img.shields.io/badge/follow%40laini-black?logo=x)](https://twitter.com/laini44380) [![youtube](https://img.shields.io/badge/follow%40laini-red?logo=youtube)](https://youtube.com/@laini2176?si=LZXChokYPrVTPLwE)
