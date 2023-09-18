@@ -3,6 +3,7 @@
 <div align="center">
   <img src="https://github.com/lainini/selftest/blob/main/images/log.png?raw=true" alt="minlog" width="100"/>
   <h1>LAINI的分享小站</h1>
+  <iframe src="https://github.com/lainini" width="200" height="200"></iframe>
 </div>
 
 **声明:** 此项目主要用于本人测试属性github的使用操作
