@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://github.com/lainini/selftest/blob/main/images/log.png?raw=true" alt="minlog" width="100"/>
   <h1>LAINI的分享小站</h1>
-  <video width="400" controls><source src="mov_bbb.mp4" type="video/mp4"></video>
+  <video width="400" controls><source src="https://www.w3schools.com/html/mov_bbb.mp4" type="video/mp4"></video>
 </div>
 
 **声明:** 此项目主要用于本人测试属性github的使用操作
